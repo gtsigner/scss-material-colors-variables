@@ -1,0 +1,15 @@
+{
+  "name": "scss-material-colors-variables",
+  "version": "1.0.0",
+  "description": "A collection of the basic material colors as variables in SCSS files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paddy Moran",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  }
+}
